@@ -1,3 +1,4 @@
-MT2SIG 3e8e8ef533e7e923c9f7437deca741f55ea544908ae95ea029ccf38f79c758087d3c070b764b05e32ea372d470d0230b75cb01ca81fae698a80d1783624328c9
+MT2SIG 3b6bedc2e6906a865baa7cb7dcc74b578855bda6f7eb82bd2a1e3d5564b8d43e99b401aac9f54dd55cdc39780df4e5ed9c5313ffaf95cfe2e2ef16e91892ecdb
 {"format":1,"mods":[
+{"id":"map-1c19a32442dfb32d","name":"Dodgeball (mod)","version":"1","description":"Dodgeball!\nStuns=Points\n\nLevel: mpl_area_dodgeball","map":"1c19a32442dfb32d","map_name":"Dodgeball","date":"2026-10-10","files":[{"name":"dbgcore.dll","path":"mods/map-1c19a32442dfb32d/1/dbgcore.dll","sha256":"e9c814b470ff366f3d7c2a2875d80c240c1368e0b528148732bfe976499fd165","size":171520},{"name":"CustomPhysics.ini","path":"mods/map-1c19a32442dfb32d/1/CustomPhysics.ini","sha256":"739fd02f919cd8a1547557fbe7ccfd517ffedbee751819a4c1dec60715159771","size":3149}]}
 ]}
