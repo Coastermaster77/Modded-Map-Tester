@@ -1,5 +1,4 @@
-MT2SIG 7fb3f17028e32e59b5ed01dc8ee45fdca2a11d1567b1b8751d12f480c503aaeea7064aff71bc84b138ccbdcbe862c6f678942d0a654d0a14694ebcdad2d05665
+MT2SIG a0016b506c29516b09d40fc461c457dd9899dc31bab6fd0e77491b30bc388938587116953d7ec0842186c72e4d50e99351902204408e02fe8bce0011333d99a8
 {"format":1,"mods":[
-{"id":"heatseeker-mod","name":"Heatseeker (mod)","version":"2","description":"Rocket League heatseeker mod","map":"0ce9a9af76a40201","map_name":"","date":"2026-10-10","files":[{"name":"CustomPhysics.ini","path":"mods/heatseeker-mod/2/CustomPhysics.ini","sha256":"8e219ef7732474e384e9890117b2849214703422dc95fae88087248030edf9ed","size":1402},{"name":"dbgcore.dll","path":"mods/heatseeker-mod/2/dbgcore.dll","sha256":"42d60c4859f84d19d44ceb6a5c4bba0ede12927cd21a8719ee98be605bbbc6dd","size":166400}]},
 {"id":"dodgeball-mod","name":"Dodgeball (mod)","version":"2","description":"Dodgeball","map":"d3e34eef320a8aff","map_name":"","date":"2026-10-10","files":[{"name":"CustomPhysics.ini","path":"mods/dodgeball-mod/2/CustomPhysics.ini","sha256":"75abb0a719a2a0e7627ebe39e5ae80071333eaf4bb61c9291c3685e78729eb76","size":2274},{"name":"dbgcore.dll","path":"mods/dodgeball-mod/2/dbgcore.dll","sha256":"5eb74a8dc64b33edbd2cd0517df8fac7ac57a50f19b4edfadb29b7acb2a9213c","size":154624}]}
 ]}
