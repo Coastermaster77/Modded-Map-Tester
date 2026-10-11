@@ -1,4 +1,3 @@
-MT2SIG a0016b506c29516b09d40fc461c457dd9899dc31bab6fd0e77491b30bc388938587116953d7ec0842186c72e4d50e99351902204408e02fe8bce0011333d99a8
+MT2SIG 3e8e8ef533e7e923c9f7437deca741f55ea544908ae95ea029ccf38f79c758087d3c070b764b05e32ea372d470d0230b75cb01ca81fae698a80d1783624328c9
 {"format":1,"mods":[
-{"id":"dodgeball-mod","name":"Dodgeball (mod)","version":"2","description":"Dodgeball","map":"d3e34eef320a8aff","map_name":"","date":"2026-10-10","files":[{"name":"CustomPhysics.ini","path":"mods/dodgeball-mod/2/CustomPhysics.ini","sha256":"75abb0a719a2a0e7627ebe39e5ae80071333eaf4bb61c9291c3685e78729eb76","size":2274},{"name":"dbgcore.dll","path":"mods/dodgeball-mod/2/dbgcore.dll","sha256":"5eb74a8dc64b33edbd2cd0517df8fac7ac57a50f19b4edfadb29b7acb2a9213c","size":154624}]}
 ]}
